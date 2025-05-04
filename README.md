@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://www.42porto.com/wp-content/uploads/2024/08/42-Porto-Horizontal.png"/>
 </p>
-<h1 align="center">C Piscine</h1>
+<h1 align="center">Piscine Reloaded</h1>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/4fb771fc-c634-44b2-886d-f8d96de2fff4"/>
 </p>
